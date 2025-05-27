@@ -26,6 +26,14 @@
     "timeline": [
       {
         "role_or_degree": "Graduate",
+        "institution_name": "Conestoga College, Waterloo, Ontario, Canada",
+        "description": "Applied Artificial Intelligence & Machine Learning",
+        "from_date": "2025-05-05T00:00:00.000",
+        "to_date": "",
+        "icon_url": "https://raw.githubusercontent.com/CHRISTOPANANJICKAL/portfolio/main/files/icons/studies.png"
+      },
+      {
+        "role_or_degree": "Graduate",
         "institution_name": "Conestoga College, Kitchner, Ontario, Canada",
         "description": "Mastering Process Quality Engineering",
         "from_date": "2024-05-07T00:00:00.000",
